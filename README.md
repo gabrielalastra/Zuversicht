@@ -1,3 +1,11 @@
+<div align=center>
+  <img width=60 src='https://github.com/gabrielalastra/TABLEAU/blob/main/icons8-dots-loading.gif?raw=true'/>
+  project under construction
+  <hr>
+  <br><br>
+  </div>
+
+
 <img align=right src='https://www.mkw.nrw/themes/custom/mkw_theme/public/images/logo.png'/> 
 <h1>Vision Board about Confidence</h1>
 <h3 align=center>art and technology</h3>
@@ -15,9 +23,10 @@ Symbolic communication also is a tool for visual artists. The humans thoughts ar
 <p>“Most experiences are unsayable, they happen in a space that no word has ever entered,<br> and more unsayable than all other things are works of art, those mysterious existences, <br>whose life endures besides our own small, transitory life.”</p>
   <p>(RILKE, ano)</p>
 </div>
+<p>In this art project funded by the Ministerium für Kultur and Wissenschaft des Landes Nordrhein-Westfalen I will develop a Vision Board highlighting the symbols of trust, belief and confidence; using the books as reference:
+</p>
+<li>Art: the whole story - Fartin, 2010</li>
+<li>Diccionario de Iconografia y Simbologia - Revilla, 2007</li>
+<li>Symbols and Allegories in Art - Battistini, 2005</li>
 
 
-<div align=left>
-  <img width=80 src='https://github.com/gabrielalastra/TABLEAU/blob/main/icons8-dots-loading.gif?raw=true'/>
-  <h2>project under construction</h2>
-  </div>
