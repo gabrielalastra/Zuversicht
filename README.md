@@ -7,7 +7,7 @@
 
 
 <img align=right width=40% src='https://www.mkw.nrw/themes/custom/mkw_theme/public/images/logo.png'/> 
-<h1 align=center>SEE TO BELIEVE</h1>
+<h1 align=center>Belief and Dependence</h1>
 <h3 align=left>an art dashboard about confidence, trust and believe</h3>
 <br><br>
 <div align=right>
